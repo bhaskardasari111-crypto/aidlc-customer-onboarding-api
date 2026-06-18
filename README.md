@@ -1,28 +1,24 @@
-# Customer Onboarding API
+## AIDLC Evidence
 
-AI-Driven Development Lifecycle (AIDLC) demo project.
+This project demonstrates AI-Driven Development Lifecycle practices.
 
-## Technology Stack
+### Requirement Analysis
+- Converted onboarding requirements into API design.
 
-- Java 21
-- Spring Boot 3.5
-- H2 Database
-- Swagger/OpenAPI
-- JUnit 5
-- Mockito
+### AI-Assisted Design
+- Generated DTO, Entity, Service, Controller structure.
 
-## Features
+### AI-Assisted Development
+- CRUD APIs implemented using AI-assisted engineering workflow.
 
-- Create Customer
-- Get Customer
-- Get All Customers
-- Update Customer
-- Delete Customer
+### AI-Assisted Testing
+- Unit tests generated and executed.
 
-## Run
+### AI-Assisted Documentation
+- Swagger/OpenAPI documentation generated.
 
-mvn spring-boot:run
-
-## Swagger
-
-http://localhost:8080/swagger-ui/index.html
+### Production Readiness
+- Validation
+- Logging
+- Exception Handling
+- Repository Pattern
